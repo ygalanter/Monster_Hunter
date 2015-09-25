@@ -1,0 +1,44 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "yuri@galanter.net",
+    "longName": "Monster Hunters",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu.png",
+                "menuIcon": true,
+                "name": "MENU",
+                "type": "png"
+            },
+            {
+                "file": "images/minute.png",
+                "name": "MINUTE",
+                "type": "png"
+            },
+            {
+                "file": "images/hour.png",
+                "name": "HOUR",
+                "type": "png"
+            },
+            {
+                "file": "images/back64.png",
+                "name": "BACK",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Monster Hunters",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "44216b8b-bcfb-4acb-8564-b7b3e01bf282",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
